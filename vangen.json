@@ -1,0 +1,20 @@
+{
+    "domain": "lcs.icu",
+    "index": false,
+    "docsDomain": "pkg.go.dev",
+    "repositories": [
+        {
+            "prefix": "micro",
+            "type": "git",
+            "url": "https://github.com/lixin9311/micro"
+        },
+        {
+            "prefix": "alchemy",
+            "type": "git",
+            "subs": [
+                "publisher"
+            ],
+            "url": "https://github.com/lixin9311/alchemy"
+        }
+    ]
+}
