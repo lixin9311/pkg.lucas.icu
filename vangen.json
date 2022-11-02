@@ -15,6 +15,14 @@
                 "publisher"
             ],
             "url": "https://github.com/lixin9311/alchemy"
+        },
+        {
+            "prefix": "moralis",
+            "type": "git",
+            "subs": [
+                "publisher"
+            ],
+            "url": "https://github.com/lixin9311/moralis"
         }
     ]
 }
